@@ -1,2 +1,1 @@
 # UnivercitySystemUML
-![{UnivercityUML}](UnivercityUML.png)
